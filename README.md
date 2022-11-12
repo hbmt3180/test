@@ -1,3 +1,2 @@
 # test
-![Alt text](![image](https://user-images.githubusercontent.com/118030547/201450650-e48d4347-6470-469b-984f-4f35d66f3a27.png))
-
+![Alt text](/path/to/img.jpg "59bbf73b123d0f9f693be3c3de9506b24a1f2a3067b4ffd0207a3a08eee32d750ebf1ca3e33084aa3bbcd6916bd0a8a187cc4556b87fa269c25f1a7ff3ea279f8bd16fd4a922cc9c1b3d6cb8fb4fdf16ba8dcb4d396b1a8210d524b60dc4105a")
