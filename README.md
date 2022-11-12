@@ -1,1 +1,2 @@
 # test
+![https://w.namu.la/s/59bbf73b123d0f9f693be3c3de9506b24a1f2a3067b4ffd0207a3a08eee32d750ebf1ca3e33084aa3bbcd6916bd0a8a187cc4556b87fa269c25f1a7ff3ea279f1e372d23aa0a6eee8d5932c70d5dac0eafa5d630072eea3a5b77191d6e0b9bc28a1945559be2adcdede246dac38b039f](/path/to/img.jpg)
